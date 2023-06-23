@@ -1,7 +1,7 @@
 # CSRF
 __________________________________________
 
-Simple html page to explore simple csrf
+Just a simple html page to explore a basic csrf vulnerability
 __________________________________________
 
 
